@@ -1,3 +1,4 @@
+<!-- Add banner here -->
 ![Banner](https://github.com/cigital/canal-random-youtube/blob/master/banner.png)
 
 ## Canal random de Youtube
