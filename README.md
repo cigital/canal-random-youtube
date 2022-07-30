@@ -1,3 +1,5 @@
+![Banner](https://github.com/cigital/canal-random-youtube/blob/master/banner.png)
+
 ## Canal random de Youtube
 Este proyecto sirve para obtener un canal random de youtube
 
