@@ -1,4 +1,4 @@
-# canal-random-youtube
+## Canal random de Youtube
 Este proyecto sirve para obtener un canal random de youtube
 
 ## Instalación
