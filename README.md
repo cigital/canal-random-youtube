@@ -1,5 +1,5 @@
 <!-- Add banner here -->
-![Banner](https://github.com/cigital/canal-random-youtube/blob/master/banner.png)
+![Banner](https://github.com/navendu-pottekkat/awesome-readme/blob/master/header.png)
 
 ## Canal random de Youtube
 Este proyecto sirve para obtener un canal random de youtube
