@@ -17,3 +17,11 @@ Ejecuta el archivo
 ```bash
 ./install.sh
 ```
+
+## Como usar
+
+Con python ejecuta el archivo canal_random.py
+
+```python
+python3 canal_random.py
+```
