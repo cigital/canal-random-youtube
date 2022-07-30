@@ -11,3 +11,9 @@ Dale permisios de ejecuión al archivo de instalación
 ```bash
 chmod +x ./install.sh
 ```
+
+Ejecuta el archivo
+
+```bash
+./install.sh
+```
