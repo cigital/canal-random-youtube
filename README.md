@@ -3,6 +3,7 @@
 
 ## Canal random de Youtube
 
+![Github](https://img.shields.io/github/last-commit/cigital/canal-random-youtube)
 ![Github](https://img.shields.io/github/license/cigital/canal-random-youtube)
 
 Este proyecto sirve para obtener un canal "random" de youtube mediante peticiones por la API de Youtube y usando el modulo random de python.
