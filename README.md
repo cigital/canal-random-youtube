@@ -26,9 +26,9 @@ Ejecuta el archivo de instalación
 
 ## Desinstalación
 Para desinstalar simplemente ejecuta el archivo de desinstalación
-´´´bash
+```bash
 ./uninstall.sh
-´´´
+```
 
 ## Como usar
 Con python ejecuta el archivo canal_random.py
