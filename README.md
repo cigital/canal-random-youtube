@@ -12,7 +12,7 @@ Clona el repositorio
 ```bash
 git clone https://github.com/cigital/canal-random-youtube/
 ```
-Dale permisios de ejecución al archivo de instalación y desintalación
+Dale permisios de ejecución al archivo de instalación y desinstalación
 
 ```bash
 chmod +x ./install.sh ./uninstall.sh
@@ -24,8 +24,13 @@ Ejecuta el archivo de instalación
 ./install.sh
 ```
 
-## Como usar
+## Desinstalación
+Para desinstalar simplemente ejecuta el archivo de desinstalación
+´´´bash
+./uninstall.sh
+´´´
 
+## Como usar
 Con python ejecuta el archivo canal_random.py
 
 ```python
