@@ -13,4 +13,4 @@ source entorno/bin/activate
 echo -e "\nInstalando requisitos.."
 pip install -r ./requirements.txt -q 
 
-echo -e "\nSe acab la instalación"
+echo -e "\nSe acabó la instalación"
