@@ -9,4 +9,4 @@ pip uninstall -q virtualenv
 echo -e "\Eliminando el directorio..."
 rm -rf entorno
 
-echo -e "\nSe acabo la desinstalación"
+echo -e "\nSe acabó la desinstalación"
