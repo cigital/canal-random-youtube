@@ -12,10 +12,10 @@ Clona el repositorio
 ```bash
 git clone https://github.com/cigital/canal-random-youtube/
 ```
-Dale permisios de ejecución al archivo de instalación
+Dale permisios de ejecución al archivo de instalación y desintalación
 
 ```bash
-chmod +x ./install.sh
+chmod +x ./install.sh ./uninstall.sh
 ```
 
 Ejecuta el archivo de instalación
