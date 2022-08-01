@@ -31,8 +31,13 @@ Para desinstalar simplemente ejecuta el archivo de desinstalación
 ```
 
 ## Como usar
-Con python ejecuta el archivo canal_random.py
+Entra en el entorno
 
+```bash
+source entorno/bin/activate
+```
+
+Con python ejecuta el archivo canal_random.py
 ```python
 python3 canal_random.py
 ```
