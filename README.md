@@ -44,3 +44,5 @@ Con python ejecuta el archivo canal_random.py
 python3 canal_random.py
 ```
 Y cuando te pregunte, pega tu credencial de api.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cigital)](https://github.com/anuraghazra/github-readme-stats)
